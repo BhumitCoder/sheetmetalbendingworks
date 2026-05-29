@@ -6,9 +6,9 @@ import {
   createWebPageJsonLd,
 } from "@/lib/seo";
 
-const title = "About Balaji Engineering Works in Surat";
+const title = "About Balaji Engineering Works | Sheet Metal Laser Cutting Manufacturer Since 2001, Surat";
 const description =
-  "Learn about Balaji Engineering Works, the Surat-based manufacturing company behind sheetmetallasercutting.com, established in 2001 for bending, cutting, fabrication, and heavy engineering work.";
+  "Balaji Engineering Works is a Surat-based sheet metal laser cutting manufacturer established in 2001 — providing CNC fiber laser cutting, plasma cutting, plate bending, plate rolling, and heavy fabrication for industries across Gujarat and India.";
 
 export const metadata = buildMetadata({
   title,

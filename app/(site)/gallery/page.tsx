@@ -29,12 +29,12 @@ export async function generateMetadata(): Promise<Metadata> {
   return buildMetadata({
     title:
       count > 0
-        ? `Gallery - ${count} Fabrication and CNC Work Photos in Surat`
-        : "Gallery - Sheet Metal Fabrication Work in Surat",
+        ? `Sheet Metal Laser Cutting Gallery - ${count} CNC Plasma Cutting & Fabrication Photos | Balaji Engineering Works Surat`
+        : "Sheet Metal Laser Cutting Gallery - CNC Plasma Cutting & Fabrication Photos | Balaji Engineering Works Surat",
     description:
       count > 0
-        ? `Browse ${count} photos of CNC laser cutting, plate bending, welding, sheet metal fabrication, plant work, and finished industrial products from Balaji Engineering Works in Surat, Gujarat.`
-        : "Browse photos of CNC laser cutting, plate bending, sheet metal fabrication, and finished industrial products from Balaji Engineering Works in Surat, Gujarat.",
+        ? `Browse ${count} photos of sheet metal laser cutting, CNC plasma cutting, plate bending, welding, sheet metal fabrication, and finished industrial products from Balaji Engineering Works in Surat, Gujarat.`
+        : "Browse photos of sheet metal laser cutting, CNC plasma cutting, plate bending, welding, sheet metal fabrication, and finished industrial products from Balaji Engineering Works in Surat, Gujarat.",
     path: "/gallery",
     keywords: [
       "fabrication gallery surat",
@@ -60,12 +60,12 @@ export default async function Page() {
     createWebPageJsonLd({
       title:
         count > 0
-          ? `Gallery - ${count} Fabrication and CNC Work Photos in Surat`
-          : "Gallery - Sheet Metal Fabrication Work in Surat",
+          ? `Sheet Metal Laser Cutting Gallery - ${count} CNC Plasma Cutting & Fabrication Photos | Balaji Engineering Works Surat`
+          : "Sheet Metal Laser Cutting Gallery - CNC Plasma Cutting & Fabrication Photos | Balaji Engineering Works Surat",
       description:
         count > 0
-          ? `Browse ${count} photos of CNC laser cutting, plate bending, sheet metal fabrication, plant activity, and finished industrial products from Balaji Engineering Works in Surat.`
-          : "Browse photos of CNC laser cutting, plate bending, sheet metal fabrication, and finished industrial products from Balaji Engineering Works in Surat.",
+          ? `Browse ${count} photos of sheet metal laser cutting, CNC plasma cutting, plate bending, welding, sheet metal fabrication, and finished industrial products from Balaji Engineering Works in Surat, Gujarat.`
+          : "Browse photos of sheet metal laser cutting, CNC plasma cutting, plate bending, welding, sheet metal fabrication, and finished industrial products from Balaji Engineering Works in Surat, Gujarat.",
       path: "/gallery",
       type: "CollectionPage",
     }),
