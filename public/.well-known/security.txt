@@ -1,5 +1,5 @@
 Contact: mailto:balajieng.works12@gmail.com
 Expires: 2027-05-10T00:00:00.000Z
 Preferred-Languages: en, hi, gu
-Canonical: https://sheetmetallasercutting.com/.well-known/security.txt
-Policy: https://sheetmetallasercutting.com/contact
+Canonical: https://www.sheetmetallasercutting.com/.well-known/security.txt
+Policy: https://www.sheetmetallasercutting.com/contact
