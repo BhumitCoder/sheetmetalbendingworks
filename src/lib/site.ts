@@ -41,7 +41,6 @@ export const siteConfig = {
   businessType: "Manufacturer and Service Provider",
   locale: "en_IN",
   language: "en-IN",
-  indiaMartProfile: "https://www.balajiengineeringworks.in/",
   serviceAreas: [
     "Surat",
     "Kamrej",

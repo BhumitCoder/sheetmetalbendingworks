@@ -54,7 +54,6 @@ Important notes:
 - Location: ${siteConfig.address.streetAddress}, ${siteConfig.address.locality}, ${siteConfig.address.region} ${siteConfig.address.postalCode}, India
 - Contact: ${siteConfig.phoneDisplay}, ${siteConfig.email}
 - Best for: CNC press brake bending, CNC laser cutting, sheet metal shearing cutting, plate rolling, profile cutting, and heavy fabrication projects
-- IndiaMART profile: ${siteConfig.indiaMartProfile}
 
 ## Main Pages
 

@@ -95,7 +95,6 @@ Summary: ${body}`;
 - Phone: ${siteConfig.phoneDisplay}
 - Email: ${siteConfig.email}
 - Address: ${siteConfig.address.streetAddress}, ${siteConfig.address.locality}, ${siteConfig.address.region} ${siteConfig.address.postalCode}, India
-- IndiaMART profile: ${siteConfig.indiaMartProfile}
 - Service areas: ${siteConfig.serviceAreas.join(", ")}
 - Industries: ${siteConfig.industries.join(", ")}
 

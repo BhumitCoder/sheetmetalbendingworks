@@ -17,22 +17,22 @@ type ServiceSeoEntry = {
 
 const serviceSeoMap: Record<string, ServiceSeoEntry> = {
   "cnc-plate-bending": {
-    metaTitle: "CNC Plate Bending Service in Surat",
+    metaTitle: "Precision CNC Plate Bending in Surat",
     metaDescription:
-      "CNC plate bending service in Surat for mild steel and industrial plate jobs with accurate press brake forming from Balaji Engineering Works.",
+      "CNC plate bending service in Surat that pairs press brake forming with our laser and plasma cutting lines for consistent, drawing-accurate bent parts.",
     intro:
-      "Balaji Engineering Works provides CNC plate bending service in Surat for industrial buyers who need repeatable angle accuracy, drawing-based bending support, and fabrication-ready output from a local manufacturing partner.",
+      "Alongside our laser and plasma cutting lines, Balaji Engineering Works runs a CNC plate bending service in Surat, turning flat blanks into accurately angled, fabrication-ready sections with repeatable results job after job.",
     applications: [
-      "Structural fabrication brackets and channels",
-      "Machine side plates, covers, and mounting parts",
-      "Frames, supports, and custom heavy bent sections",
-      "Batch bending work for fabrication contractors",
+      "Brackets and channels used in structural fabrication",
+      "Side plates, enclosures, and mounting hardware for machinery",
+      "Custom heavy bent profiles, supports, and frames",
+      "Volume bending runs handled for fabrication contractors",
     ],
     process: [
-      "Drawing review and bend feasibility confirmation",
-      "Material, thickness, and bend sequence planning",
-      "CNC press brake setup and controlled bending",
-      "Angle inspection and dispatch preparation",
+      "Studying the drawing and confirming that each bend is achievable",
+      "Selecting material, setting thickness, and mapping the bend order",
+      "Programming the CNC press brake and forming under controlled conditions",
+      "Checking every angle and getting parts ready to ship",
     ],
     keywords: [
       "cnc plate bending service in surat",
@@ -42,39 +42,39 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "Do you provide CNC plate bending service in Surat?",
+        question: "Is CNC plate bending available at your Surat unit?",
         answer:
-          "Yes. We provide CNC plate bending service in Surat for structural, fabrication, and industrial plate bending requirements.",
+          "Absolutely. Our Surat facility handles CNC plate bending for structural work, general fabrication, and industrial plate forming of every kind.",
       },
       {
-        question: "Can you work from CAD drawings or sample dimensions?",
+        question: "Will you quote from CAD files or from a sample size?",
         answer:
-          "Yes. You can share DXF, DWG, PDF drawings, or dimension references and our team will review the job before quotation.",
+          "Certainly. Send us DXF, DWG, or PDF files, or simply the dimensions, and our team studies the job first before sending across a quote.",
       },
       {
-        question: "Do you support both sample jobs and repeat production?",
+        question: "Are one-off pieces and repeat batches both possible?",
         answer:
-          "Yes. We support one-off fabrication jobs as well as repeat production bending depending on thickness and profile.",
+          "They are. Depending on the thickness and the profile, we take on single prototype bends as well as ongoing production quantities.",
       },
     ],
   },
   "sheet-metal-shearing-cutting": {
-    metaTitle: "Sheet Metal Shearing Cutting Service in Surat",
+    metaTitle: "Sheet Metal Shearing Cutting in Surat | Cut to Size",
     metaDescription:
-      "Sheet metal shearing cutting service in Surat with hydraulic shearing capacity for cut-to-size sheets, plate blanks, and fabrication-ready material.",
+      "Sheet metal shearing cutting service in Surat delivering hydraulically sheared blanks, cut-to-size sheets, and clean material ready for the next stage.",
     intro:
-      "Balaji Engineering Works provides sheet metal shearing cutting service in Surat for buyers who need straight-line cutting, repeatable blanks, and dependable material preparation before bending, welding, or fabrication.",
+      "For jobs that call for straight cuts rather than laser or plasma profiling, Balaji Engineering Works offers a sheet metal shearing cutting service in Surat that produces uniform blanks and reliably prepped material ahead of bending, welding, or fabrication.",
     applications: [
-      "Cut-to-size sheet and plate blanks",
-      "Material preparation for CNC bending and fabrication",
-      "Strip cutting for repeat production jobs",
-      "Heavy fabrication support for industrial projects",
+      "Sheet and plate blanks sheared to the size you need",
+      "Stock preparation feeding CNC bending and fabrication",
+      "Strip cutting for jobs that repeat in production",
+      "Backup cutting for large industrial fabrication work",
     ],
     process: [
-      "Drawing, size, and thickness review",
-      "Hydraulic shearing setup for job length and material",
-      "Batch cutting with size control",
-      "Inspection, stacking, and dispatch preparation",
+      "Going over the drawing, the required size, and the thickness",
+      "Dialling in the hydraulic shear for the length and grade in hand",
+      "Running the batch while holding each cut to size",
+      "Checking, stacking, and readying material for dispatch",
     ],
     keywords: [
       "sheet metal shearing cutting service in surat",
@@ -84,39 +84,39 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "What is your shearing cutting capacity?",
+        question: "How much can your shearing line handle?",
         answer:
-          "We provide sheet metal shearing cutting up to 32 mm thickness and up to 5 meter length depending on the material and job requirement.",
+          "Our shearing covers material up to 32 mm thick and lengths reaching 5 meters, with the exact limit depending on the grade and the nature of the job.",
       },
       {
-        question: "Is shearing suitable for fabrication-ready blanks?",
+        question: "Are sheared blanks good enough to feed straight into fabrication?",
         answer:
-          "Yes. Shearing is widely used for straight-line blanks, strips, and production-ready material preparation before bending, welding, or assembly.",
+          "Yes indeed. Shearing is a go-to method for straight blanks, strips, and production-ready stock that then moves on to bending, welding, or assembly.",
       },
       {
-        question: "Can shearing jobs be combined with bending or fabrication?",
+        question: "Can a shearing order also cover bending or fabrication?",
         answer:
-          "Yes. Many customers combine shearing cutting with CNC bending, welding, and fabrication to reduce lead time and simplify coordination.",
+          "Of course. Plenty of clients bundle shearing with CNC bending, welding, and fabrication so lead times shrink and coordination stays simple.",
       },
     ],
   },
   "cnc-laser-cutting": {
-    metaTitle: "CNC Laser Cutting Services in Surat",
+    metaTitle: "CNC Laser Cutting in Surat | Fiber Laser Job Work",
     metaDescription:
-      "CNC laser cutting services in Surat for mild steel and stainless steel sheets, profile parts, production blanks, and fabrication components.",
+      "CNC laser cutting services in Surat delivering clean-edged mild steel and stainless profiles, production blanks, and precise fabrication parts, fast.",
     intro:
-      "Balaji Engineering Works provides CNC laser cutting services in Surat for buyers who need clean cut quality, quick quoting, and accurate drawing-based sheet metal processing.",
+      "CNC laser cutting is at the heart of what we do. Balaji Engineering Works delivers CNC laser cutting services in Surat with crisp cut edges, rapid quoting, and precise, drawing-driven processing of sheet metal for demanding buyers.",
     applications: [
-      "Production blanks and profile parts",
-      "Laser cut fabrication components",
-      "Machine covers, brackets, and precision plates",
-      "Custom job work for MS and SS sheet cutting",
+      "Profile parts and production blanks cut to spec",
+      "Laser-cut components feeding downstream fabrication",
+      "Precision plates, brackets, and machine enclosures",
+      "MS and SS sheet cutting handled as custom job work",
     ],
     process: [
-      "Drawing file review and nesting check",
-      "Material and thickness confirmation",
-      "Laser cutting and batch identification",
-      "Inspection and packing for dispatch",
+      "Opening the drawing file and confirming an efficient nest",
+      "Locking in the material grade and thickness",
+      "Firing the laser and tagging each batch as it comes off",
+      "Inspecting the parts and packing them for dispatch",
     ],
     keywords: [
       "cnc laser cutting services in surat",
@@ -126,39 +126,39 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "What files do you accept for CNC laser cutting?",
+        question: "Which file types work for a CNC laser cutting quote?",
         answer:
-          "We accept DXF, DWG, STEP, PDF, and drawing-based requirements for CNC laser cutting quotations and production review.",
+          "Send DXF, DWG, STEP, or PDF files, or even a drawing-based brief, and we will use them to quote and to plan the CNC laser cutting run.",
       },
       {
-        question: "Do you cut both mild steel and stainless steel sheets?",
+        question: "Are both mild and stainless steel sheets laser cut here?",
         answer:
-          "Yes. Our team handles MS and stainless steel cutting jobs depending on thickness and production requirement.",
+          "They are. We laser cut MS and stainless steel routinely, with the specifics guided by the thickness and the production volume involved.",
       },
       {
-        question: "Can laser cut parts also go for bending or fabrication?",
+        question: "Can laser-cut parts move on to bending or fabrication?",
         answer:
-          "Yes. Many jobs combine laser cutting with sheet bending or fabrication to reduce lead time and coordination.",
+          "Definitely. A great many jobs pair laser cutting with sheet bending or fabrication under one roof, trimming both lead time and back-and-forth.",
       },
     ],
   },
   "plate-rolling": {
-    metaTitle: "Plate Rolling Service in Surat",
+    metaTitle: "Plate Rolling in Surat | Shells & Cylinders",
     metaDescription:
-      "Plate rolling service in Surat for cylinders, curved sections, shells, ducts, and heavy fabrication components from Balaji Engineering Works.",
+      "Plate rolling service in Surat forming cylinders, shells, ducts, and curved sections with accurate radius control for heavy fabrication projects.",
     intro:
-      "Balaji Engineering Works provides plate rolling service in Surat for buyers looking for curved steel sections, shells, ducts, and heavy fabrication parts that require accurate radius control and practical manufacturing support.",
+      "Balaji Engineering Works runs a plate rolling service in Surat for anyone needing curved steel sections, shells, ducts, or heavy fabricated parts, backing accurate radius control with grounded, hands-on manufacturing know-how.",
     applications: [
-      "Cylinder and shell fabrication work",
-      "Curved structural and industrial parts",
-      "Rolling jobs for tank and duct components",
-      "Project fabrication requiring formed plates",
+      "Fabrication of cylinders and pressure shells",
+      "Curved sections for structural and industrial use",
+      "Rolled pieces for tanks and ducting",
+      "Formed plates supplied into larger project fabrication",
     ],
     process: [
-      "Drawing and radius review",
-      "Plate thickness and width planning",
-      "Rolling and forming setup",
-      "Shape verification before dispatch",
+      "Looking over the drawing and the target radius",
+      "Planning around the plate thickness and width",
+      "Setting up the rolls and starting the forming pass",
+      "Verifying the curve before anything ships out",
     ],
     keywords: [
       "plate rolling service in surat",
@@ -168,39 +168,39 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "Do you handle plate rolling for custom radius jobs?",
+        question: "Do you take on custom-radius plate rolling?",
         answer:
-          "Yes. We handle custom rolling requirements based on plate thickness, width, radius, and fabrication purpose.",
+          "We do. Rolling is set up to suit your specific plate thickness, width, radius, and the end use the part is being fabricated for.",
       },
       {
-        question: "Is plate rolling useful for heavy fabrication projects?",
+        question: "Does plate rolling suit heavy fabrication projects?",
         answer:
-          "Yes. It is commonly used for shells, curved sections, ducts, covers, and industrial formed components.",
+          "Very much so. It is a mainstay for shells, curved sections, ducts, covers, and other formed components used in industry.",
       },
       {
-        question: "Can I send a drawing for rolling feasibility?",
+        question: "May I send a drawing to check rolling feasibility?",
         answer:
-          "Yes. Share your drawing or required radius and our team can review whether the job is suitable for our rolling process.",
+          "Please do. Share the drawing or the radius you need and our team will assess whether the piece fits our rolling capability.",
       },
     ],
   },
   "cnc-plasma-cutting": {
-    metaTitle: "CNC Plasma Cutting Services in Surat",
+    metaTitle: "Surat CNC Plasma Cutting & Profile Cutting",
     metaDescription:
-      "CNC plasma cutting services in Surat for thick plate profiles, base plates, brackets, flanges, and fabrication-ready steel components.",
+      "CNC plasma cutting services in Surat for thick-plate profiles, base plates, flanges, brackets, and dependable fabrication-ready steel components.",
     intro:
-      "Balaji Engineering Works provides CNC plasma cutting services in Surat for buyers who need thick plate cutting, profile-based fabrication parts, and dependable output for industrial projects.",
+      "Plasma cutting rounds out our profile-cutting strengths. Balaji Engineering Works provides CNC plasma cutting services in Surat for thick-plate work, profile-based fabrication parts, and steady output that industrial projects can count on.",
     applications: [
       "Base plates and mounting plates",
-      "Structural brackets and support components",
-      "Flanges and custom industrial profiles",
-      "Heavy fabrication parts for project jobs",
+      "Support components and structural brackets",
+      "Flanges and one-off industrial profiles",
+      "Heavy fabricated parts for project-driven jobs",
     ],
     process: [
-      "Drawing and profile review",
-      "Material and thickness confirmation",
-      "CNC plasma cutting and part marking",
-      "Inspection and dispatch planning",
+      "Reviewing the drawing and the profile to be cut",
+      "Confirming the grade and the plate thickness",
+      "Running the CNC plasma cut and marking each part",
+      "Inspecting the output and planning the dispatch",
     ],
     keywords: [
       "cnc plasma cutting services in surat",
@@ -210,39 +210,39 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "Do you provide CNC plasma cutting in Surat?",
+        question: "Is CNC plasma cutting offered in Surat?",
         answer:
-          "Yes. We provide CNC plasma cutting for industrial buyers in Surat and nearby regions for thick plate and profile-based fabrication jobs.",
+          "It is. We plasma cut for industrial buyers across Surat and the surrounding area, focusing on thick plate and profile-based fabrication work.",
       },
       {
-        question: "What kinds of parts are suitable for plasma cutting?",
+        question: "Which parts are a good match for plasma cutting?",
         answer:
-          "Plasma cutting is commonly used for base plates, flanges, brackets, structural parts, and heavy-duty profile cutting requirements.",
+          "Plasma cutting excels at base plates, flanges, brackets, structural pieces, and heavy-duty profile cutting jobs of this sort.",
       },
       {
-        question: "Can you work from DXF or fabrication drawings?",
+        question: "Do you cut from DXF files or fabrication drawings?",
         answer:
-          "Yes. You can share DXF, DWG, PDF, or drawing-based requirements and our team will review the job for quotation.",
+          "We do. Pass along DXF, DWG, or PDF files, or a drawing-based brief, and our team will review the job and quote it.",
       },
     ],
   },
   assembly: {
-    metaTitle: "Assembly Services in Surat for Industrial Fabrication",
+    metaTitle: "Industrial Assembly & Fit-Up Services in Surat",
     metaDescription:
-      "Assembly services in Surat for welding, riveting, fit-up, and finished fabricated product integration from Balaji Engineering Works.",
+      "Assembly services in Surat combining welding, riveting, and fit-up to join laser-cut and fabricated parts into finished industrial products.",
     intro:
-      "Balaji Engineering Works provides assembly services in Surat for buyers who need multiple fabricated parts joined into usable sub-assemblies or finished industrial products with dimensional fit-up and coordinated production support.",
+      "Balaji Engineering Works offers assembly services in Surat that bring several fabricated parts together into working sub-assemblies or complete industrial products, with tight dimensional fit-up and coordinated production throughout.",
     applications: [
-      "Sub-assemblies from cut and bent parts",
-      "Welded and riveted fabricated product build-up",
-      "Machine frame and utility part integration",
-      "Project fabrication ready-to-dispatch assemblies",
+      "Sub-assemblies built from cut and bent parts",
+      "Product build-up using welding and riveting",
+      "Integration of machine frames and utility parts",
+      "Project assemblies finished and ready to dispatch",
     ],
     process: [
-      "Review part drawings and assembly sequence",
-      "Fit-up and alignment of cut, bent, or rolled parts",
-      "Joining through welding, riveting, or specified method",
-      "Final dimensional and visual inspection before dispatch",
+      "Studying part drawings and setting the assembly order",
+      "Fitting and aligning the cut, bent, or rolled components",
+      "Joining by welding, riveting, or whichever method is specified",
+      "Running a final dimensional and visual check before dispatch",
     ],
     keywords: [
       "assembly services in surat",
@@ -252,39 +252,39 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "Do you provide assembly services in Surat?",
+        question: "Are assembly services available in Surat?",
         answer:
-          "Yes. We provide assembly services in Surat for fabricated metal parts, welded structures, and industrial sub-assemblies.",
+          "Yes. Our Surat unit assembles fabricated metal parts, welded structures, and industrial sub-assemblies of many kinds.",
       },
       {
-        question: "Can assembly be combined with cutting and bending?",
+        question: "Can assembly be joined with cutting and bending?",
         answer:
-          "Yes. Many jobs combine laser cutting, bending, welding, and final assembly under one manufacturing scope.",
+          "It can. Many jobs run laser cutting, bending, welding, and final assembly together within a single manufacturing scope.",
       },
       {
-        question: "Do you support project-based fabricated assemblies?",
+        question: "Do you handle project-based fabricated assemblies?",
         answer:
-          "Yes. We support both custom one-off assembly jobs and repeat production assemblies depending on the requirement.",
+          "We do. Both one-off custom assembly jobs and recurring production assemblies are supported, whatever the requirement calls for.",
       },
     ],
   },
   welding: {
-    metaTitle: "Welding Services in Surat for Sheet Metal and Fabrication",
+    metaTitle: "Sheet Metal Welding & Fabrication in Surat",
     metaDescription:
-      "Welding services in Surat for sheet metal parts, fabricated sections, frames, supports, and industrial steel components.",
+      "Welding services in Surat producing strong joints on sheet metal parts, fabricated sections, frames, supports, and industrial steel components.",
     intro:
-      "Balaji Engineering Works provides welding services in Surat for buyers who need durable joints, fabrication-ready weld quality, and practical job work support for custom or repeat industrial requirements.",
+      "Balaji Engineering Works provides welding services in Surat built around strong, fabrication-grade joints, giving custom and repeat industrial jobs the practical, dependable weld support they need.",
     applications: [
-      "Sheet metal and fabricated section joining",
-      "Frames, supports, and brackets",
+      "Joining sheet metal parts and fabricated sections",
+      "Brackets, supports, and frames",
       "Welded machine and utility components",
-      "Assembly support for industrial fabrication projects",
+      "Assembly support across industrial fabrication projects",
     ],
     process: [
-      "Review joint type, part fit-up, and fabrication drawing",
-      "Prepare surfaces and fixture parts for alignment",
-      "Carry out welding as per fabrication requirement",
-      "Inspect joint quality and prepare for next operation or dispatch",
+      "Assessing the joint type, part fit-up, and fabrication drawing",
+      "Cleaning surfaces and fixturing the parts for alignment",
+      "Welding to suit the fabrication requirement",
+      "Checking joint quality before the next step or dispatch",
     ],
     keywords: [
       "welding services in surat",
@@ -294,39 +294,39 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "Do you provide welding services in Surat?",
+        question: "Are welding services offered in Surat?",
         answer:
-          "Yes. We provide welding services in Surat for sheet metal fabrication, industrial structures, and assembly jobs.",
+          "Yes. We weld for sheet metal fabrication, industrial structures, and assembly jobs across Surat and the region.",
       },
       {
-        question: "Is welding available for custom fabrication jobs?",
+        question: "Is welding available for custom fabrication work?",
         answer:
-          "Yes. Our welding support is suitable for both one-off custom jobs and repeat fabrication work.",
+          "It is. Our welding suits both one-off custom pieces and repeat fabrication runs equally well.",
       },
       {
-        question: "Can welding be combined with assembly support?",
+        question: "Can welding be paired with assembly support?",
         answer:
-          "Yes. Welding is often integrated with cutting, bending, and assembly as part of one project requirement.",
+          "Certainly. Welding frequently ties in with cutting, bending, and assembly as part of a single project scope.",
       },
     ],
   },
   "deep-drawing": {
-    metaTitle: "Deep Drawing Service in Surat",
+    metaTitle: "Deep Drawing in Surat | Press-Formed Sheet Parts",
     metaDescription:
-      "Deep drawing service in Surat for 3D formed sheet metal components, container-type parts, and repeat production requirements.",
+      "Deep drawing service in Surat shaping flat sheet into 3D formed components and container-type parts with repeatable, die-based production.",
     intro:
-      "Balaji Engineering Works provides deep drawing service in Surat for buyers who need flat sheet transformed into three-dimensional formed components with repeatability and practical die-based production support.",
+      "Balaji Engineering Works offers a deep drawing service in Surat that transforms flat sheet into three-dimensional formed parts, backed by consistent repeatability and hands-on, die-based production support.",
     applications: [
-      "Container-like and deep profile components",
-      "Industrial formed sheet parts",
-      "Repeat production deep drawn items",
-      "Press-formed utility and process components",
+      "Deep-profile and container-style components",
+      "Formed sheet parts for industrial use",
+      "Deep drawn items made in repeat production",
+      "Press-formed utility and process parts",
     ],
     process: [
-      "Review drawing, depth ratio, and material suitability",
-      "Confirm blank size and tooling requirement",
-      "Carry out deep drawing over the die with process control",
-      "Inspect formed shape and dimensional consistency",
+      "Reviewing the drawing, the depth ratio, and material suitability",
+      "Settling on the blank size and the tooling needed",
+      "Drawing over the die with the process kept under control",
+      "Checking the formed shape and its dimensional consistency",
     ],
     keywords: [
       "deep drawing service in surat",
@@ -336,39 +336,39 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "Do you provide deep drawing service in Surat?",
+        question: "Is deep drawing available in Surat?",
         answer:
-          "Yes. We provide deep drawing service in Surat for 3D formed sheet metal components and repeat production requirements.",
+          "Yes. We offer deep drawing in Surat for 3D formed sheet metal components and for jobs that repeat in production.",
       },
       {
-        question: "What kind of products suit deep drawing?",
+        question: "Which products lend themselves to deep drawing?",
         answer:
-          "Deep drawing is commonly used for container-like parts, deep profiles, and formed sheet components that require die-based shaping.",
+          "Deep drawing works well for container-like parts, deep profiles, and formed sheet components that need die-based shaping.",
       },
       {
-        question: "Can deep drawing support repeat production?",
+        question: "Will deep drawing hold up for repeat production?",
         answer:
-          "Yes. Deep drawing is well suited for repeat and production-oriented forming jobs when the geometry is appropriate.",
+          "It will. Where the geometry allows, deep drawing is a strong fit for repeat and production-oriented forming.",
       },
     ],
   },
   finishing: {
-    metaTitle: "Metal Finishing Services in Surat",
+    metaTitle: "Surat Metal Finishing | Powder Coat & Polish",
     metaDescription:
-      "Metal finishing services in Surat including painting, polishing, coating, and surface improvement for fabricated industrial components.",
+      "Metal finishing services in Surat covering painting, polishing, coating, and surface treatment to complete and protect fabricated components.",
     intro:
-      "Balaji Engineering Works provides metal finishing services in Surat for buyers who need better surface appearance, corrosion protection, and product readiness after fabrication or forming operations.",
+      "Balaji Engineering Works provides metal finishing services in Surat that lift surface appearance, guard against corrosion, and leave parts ready for use once fabrication or forming is done.",
     applications: [
-      "Surface-ready fabricated components",
-      "Protective finishing for industrial parts",
-      "Visual improvement for customer-facing metal products",
-      "Post-fabrication coating and polishing jobs",
+      "Fabricated components brought to a finished surface",
+      "Protective treatments for industrial parts",
+      "A cleaner look for customer-facing metal products",
+      "Coating and polishing carried out after fabrication",
     ],
     process: [
-      "Review finish requirement and component condition",
-      "Prepare surfaces for the selected finishing process",
-      "Coordinate finishing method such as coating, painting, or polishing",
-      "Inspect finished appearance and dispatch condition",
+      "Understanding the finish needed and the part's current state",
+      "Prepping surfaces for the chosen finishing method",
+      "Arranging the finish, whether coating, painting, or polishing",
+      "Checking the finished look and the condition for dispatch",
     ],
     keywords: [
       "metal finishing services in surat",
@@ -378,39 +378,39 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "Do you provide metal finishing services in Surat?",
+        question: "Are metal finishing services offered in Surat?",
         answer:
-          "Yes. We support metal finishing services in Surat for fabricated and industrial components requiring improved surface quality or protection.",
+          "Yes. We handle metal finishing in Surat for fabricated and industrial parts that need a better surface or added protection.",
       },
       {
-        question: "What finishing types can be supported?",
+        question: "Which finishing methods can you arrange?",
         answer:
-          "Depending on the job, finishing can include painting, polishing, powder coating coordination, and other protective or appearance-focused treatments.",
+          "Depending on the part, we can arrange painting, polishing, powder coating coordination, and other protective or cosmetic treatments.",
       },
       {
-        question: "Can finishing be added after fabrication?",
+        question: "Can finishing follow on after fabrication?",
         answer:
-          "Yes. Finishing is commonly the last stage after cutting, bending, welding, or assembly.",
+          "It can. Finishing is usually the closing stage once cutting, bending, welding, or assembly is complete.",
       },
     ],
   },
   stamping: {
-    metaTitle: "Sheet Metal Stamping Service in Surat",
+    metaTitle: "Sheet Metal Stamping in Surat | Press Parts",
     metaDescription:
-      "Sheet metal stamping service in Surat for repeat production parts, formed components, and high-volume industrial manufacturing requirements.",
+      "Sheet metal stamping service in Surat for repeat-production parts, press-formed components, and efficient high-volume manufacturing runs.",
     intro:
-      "Balaji Engineering Works provides sheet metal stamping service in Surat for buyers searching for repeatable part production, press-based forming, and efficient output for higher-volume sheet metal requirements.",
+      "Balaji Engineering Works provides a sheet metal stamping service in Surat for buyers after repeatable part production, press-based forming, and efficient throughput on higher-volume sheet metal work.",
     applications: [
-      "Repeat production metal parts",
-      "Automotive and appliance-type sheet components",
+      "Metal parts made in repeat production",
+      "Sheet components for automotive and appliance use",
       "Pressed industrial items",
-      "Volume-oriented manufacturing jobs",
+      "Manufacturing jobs geared toward volume",
     ],
     process: [
-      "Review part drawing, volume, and tooling suitability",
-      "Confirm material, blanking, and press requirement",
-      "Carry out stamping with repeatability control",
-      "Inspect output consistency before packing and dispatch",
+      "Reviewing the part drawing, the volume, and tooling suitability",
+      "Confirming the material, the blanking, and the press needed",
+      "Stamping with repeatability held in check",
+      "Checking output consistency before packing and dispatch",
     ],
     keywords: [
       "sheet metal stamping service in surat",
@@ -420,39 +420,39 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "Do you provide sheet metal stamping service in Surat?",
+        question: "Is sheet metal stamping available in Surat?",
         answer:
-          "Yes. We support sheet metal stamping service in Surat for repeat production parts and volume-oriented manufacturing jobs.",
+          "Yes. We run sheet metal stamping in Surat for repeat-production parts and volume-focused manufacturing jobs.",
       },
       {
-        question: "Is stamping suitable for high-volume requirements?",
+        question: "Does stamping suit high-volume needs?",
         answer:
-          "Yes. Stamping is commonly used where fast cycle times and repeat output matter for larger quantities.",
+          "It does. Stamping comes into its own where quick cycle times and repeat output matter for larger quantities.",
       },
       {
-        question: "Can stamped parts go for further fabrication or finishing?",
+        question: "Can stamped parts go on to further fabrication or finishing?",
         answer:
-          "Yes. Stamped parts can be integrated into later operations such as assembly, welding, or finishing depending on the product design.",
+          "They can. Stamped parts fold neatly into later steps such as assembly, welding, or finishing, depending on the design.",
       },
     ],
   },
   punching: {
-    metaTitle: "Sheet Metal Punching Service in Surat",
+    metaTitle: "Sheet Metal Punching in Surat | CNC Turret Press",
     metaDescription:
-      "Sheet metal punching service in Surat for holes, cutouts, mounting features, and repeat production sheet components.",
+      "Sheet metal punching service in Surat producing holes, cutouts, mounting features, and repeat-production sheet components with accuracy.",
     intro:
-      "Balaji Engineering Works provides sheet metal punching service in Surat for buyers looking for repeat hole patterns, cutouts, mounting features, and production-ready sheet components in Surat.",
+      "Balaji Engineering Works provides a sheet metal punching service in Surat for buyers needing repeat hole patterns, cutouts, mounting features, and production-ready sheet components.",
     applications: [
-      "Mounting and functional hole patterns",
+      "Hole patterns for mounting and function",
       "Sheet cutouts and utility features",
-      "Repeat production punched parts",
-      "Industrial sheet metal component preparation",
+      "Punched parts made in repeat production",
+      "Prep work for industrial sheet metal components",
     ],
     process: [
-      "Review hole pattern, sheet layout, and production need",
-      "Prepare punch tooling and part setup",
-      "Carry out punching for holes and required sheet features",
-      "Inspect repeatability and ready parts for next operation",
+      "Reviewing the hole pattern, the sheet layout, and the volume",
+      "Preparing the punch tooling and setting up the part",
+      "Punching the holes and any required sheet features",
+      "Checking repeatability and readying parts for the next step",
     ],
     keywords: [
       "sheet metal punching service in surat",
@@ -462,19 +462,19 @@ const serviceSeoMap: Record<string, ServiceSeoEntry> = {
     ],
     faqs: [
       {
-        question: "Do you provide sheet metal punching service in Surat?",
+        question: "Is sheet metal punching available in Surat?",
         answer:
-          "Yes. We provide sheet metal punching service in Surat for holes, cutouts, and repeat production sheet component requirements.",
+          "Yes. We offer sheet metal punching in Surat for holes, cutouts, and repeat-production sheet component needs.",
       },
       {
-        question: "Is punching suitable for mass production?",
+        question: "Does punching suit mass production?",
         answer:
-          "Yes. Punching is well suited for repeat jobs where the same holes or sheet features are needed across larger quantities.",
+          "It does. Punching is a strong choice for repeat work where identical holes or features are needed across large quantities.",
       },
       {
-        question: "Can punched parts go for bending or assembly next?",
+        question: "Can punched parts head to bending or assembly next?",
         answer:
-          "Yes. Punched parts are often prepared first and then moved to bending, welding, or assembly based on the project sequence.",
+          "They can. Punched parts are often made first, then routed to bending, welding, or assembly per the project sequence.",
       },
     ],
   },
